@@ -336,11 +336,6 @@ height: 100%;
         right: 0;
     }
    
-    @media (min-width: 980px){
-        .latest-box span{
-            top: -5px;
-       
-    }
     @media (max-width: 767px){
         .latest-box{
             flex-direction: column;
